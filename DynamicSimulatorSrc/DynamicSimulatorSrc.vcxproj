@@ -145,8 +145,13 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="NetworkResourceCreator.h" />
+    <ClInclude Include="NetworkTopology.h" />
+    <ClInclude Include="NetwResourceMaintainer.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="TrafficProducer.h" />
+    <ClInclude Include="TrafficSelector.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DynamicSimulatorSrc.cpp" />
