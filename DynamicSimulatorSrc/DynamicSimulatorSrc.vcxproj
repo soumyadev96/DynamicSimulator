@@ -145,6 +145,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="containerFile.h" />
     <ClInclude Include="NetworkResourceCreator.h" />
     <ClInclude Include="NetworkTopology.h" />
     <ClInclude Include="NetwResourceMaintainer.h" />
